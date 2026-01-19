@@ -1,7 +1,7 @@
 <div align="center">
 
-#  MMCPL: Multimodal Embedding Enhancement for Concept Prerequisite
-Learning 
+#  MMCPL: Multimodal Embedding Enhancement for Concept Prerequisite Learning 
+
 
 
 
